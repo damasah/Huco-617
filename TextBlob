@@ -1,0 +1,4 @@
+from textblob import Word
+w = Word('Ther')
+w.spellcheck()
+
